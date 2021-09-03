@@ -22,7 +22,6 @@ To review thos pull request, please utilize the checklist below.
 - [ ] Does the functionality work in all cases?
 - [ ] Can you break the implementation, ergo, could you find a corner case and break it?
 - [ ] Does the contribution adhere to the agreed-upon format and package layout for the project?
-- [ ] Does the contribution adhere to the agreed-upon format and package layout for the project?
 - [ ] Can the contribution be split-up into smaller methods, classes, or objects?
 - [ ] Do the parameters used for new classes, methods, and functions make sense?
 - [ ] Does the contribution follow the maximum line and size requirements as defined in the style guide?
