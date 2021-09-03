@@ -6,7 +6,6 @@ This pull request contains the following breaking changes:
 
 ------
 
-
 A DESCRIPTION OF YOUR PULL REQUEST GOES HERE
 
 * A bullet list of each adjustment, feature, and bug fix...
