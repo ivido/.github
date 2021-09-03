@@ -1,4 +1,8 @@
-__BREAKING CHANGE__ : This pull request contains a breaking change due to [reason]. You can remove this line if your pull request introduces no breaking changes.
+_Delete this section if your PR contains no breaking changes_
+__BREAKING CHANGES__
+This pull request contains the following breaking changes:
+- Breaking change 1
+- Breaking change 2 
 
 ------
 
