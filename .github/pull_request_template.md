@@ -6,7 +6,6 @@ This pull request contains the following breaking changes:
 
 ------
 
-# TITLE OF PULL REQUEST GOES HERE
 
 A DESCRIPTION OF YOUR PULL REQUEST GOES HERE
 
