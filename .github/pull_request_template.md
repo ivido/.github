@@ -1,8 +1,8 @@
-_Delete this section if your PR contains no breaking changes_
+_Delete this section up to and including the `------` text if your PR contains no breaking changes_
 __BREAKING CHANGES__
 This pull request contains the following breaking changes:
-- Breaking change 1
-- Breaking change 2 
+* Breaking change 1
+* Breaking change 2 
 
 ------
 
@@ -14,48 +14,21 @@ A DESCRIPTION OF YOUR PULL REQUEST GOES HERE
 * Continued list.
 * Add more as needed.
 
+# Testing the Pull Request
+
+A DESCRIPTION OF HOW TO TEST YOUR CHANGES GOES HERE
+
+* Step 1 for the procedure.
+* Step 2 for the procedure.
+* Etc.
+
 # Pull Request Reviewing
 
-To review thos pull request, please utilize the checklist below.
+To review this pull request, please utilize the checklist below that is based on our [pull request review guidelines](https://www.notion.so/ivido/Pull-Request-Reviewing-b89fa374e2704319a0249d729db65eee).
 
-- [ ] Does the functionality described in the pull request work in practice?
-- [ ] Does the functionality work in all cases?
-- [ ] Can you break the implementation, ergo, could you find a corner case and break it?
-- [ ] Does the contribution adhere to the agreed-upon format and package layout for the project?
-- [ ] Should the contribution be split-up into smaller methods, classes, or objects?
-- [ ] Do the parameters used for new classes, methods, and functions make sense?
-- [ ] Does the contribution follow the maximum line and size requirements as defined in the style guide?
-- [ ] Do the imports and dependencies utilized match the requirements and procedures?
-- [ ] Does the contribution adhere to the agreed upon standards for design for the relevant programming language(s)?
-- [ ] Are variables named clearly and according to convention?
-- [ ] Are classes, objects, and methods named according to the conventions?
-- [ ] Does the implementation adhere to spacing and tabbing guidelines?
-- [ ] Are the loops & iterators utilized in the pull request necessary?
-- [ ] Can the amount of loops & iterators be reduced?
-- [ ] Is early termination with `break` possible within a loop?
-- [ ] Does the code not exceed `O(n^3)` computational complexity?
-- [ ] Does a method make calls to a function with a high computational complexity? Can this be avoided?
-- [ ] Can conditions (`if/else`, `switch`) be combined or avoided?
-- [ ] Can database calls and queries be reduced or optimized / chained?
-- [ ] Is there no duplicate code?
-- [ ] Do the test coverage metrics for this component match those required in the testing guidelines?
-- [ ] Do all the unit tests pass within the pipelines?
-- [ ] Are there tests that attempt to break the implementation, and catch error handling?
-- [ ] Have you done adequate corner case and edge case coverage?
-- [ ] Do all the unit tests pass within the pipelines?
-- [ ] Do the integration tests accurately validate interacting components?
-- [ ] Do all the existing integration tests pass?
-- [ ] Do the changes in the implementation not break external API components?
-- [ ] Do the smoke tests pass, and do they exist for this component?
-- [ ] Do system tests pass, and do they exist for this component?
-- [ ] Are there tests missing that should exist for this component?
-- [ ] Do the new features provided within the pull request have sufficient documentation such that they can be understood easily?
-- [ ] Has the documentation been updated for changes made within this pull request to existing systems?
-- [ ] Is the documentation formal, complete, and void of spelling mistakes?
-- [ ] Is relevant automated inline documentation (Javadoc, PHPdoc) in the pull request?
-- [ ] Are difficult or complex components within the application documented with inline comments?
-- [ ] Are all comments correct and using formal language?
-- [ ] Does the implementation introduce any breaking changes?
-- [ ] Are these breaking changes communicated internally and adjusted?
-- [ ] Are these breaking changes communicated and logged to external parties and API dependents?
-- [ ] Is the security of this implementation valid and safe?
+- [ ] Does the pull request adhere to the [functionality requirements and guidelines](https://www.notion.so/ivido/Pull-Request-Reviewing-b89fa374e2704319a0249d729db65eee#b8e3e91cecc7439f8148db51c57b4d91)?
+- [ ] Does the pull request adhere to [code quality guidelines](https://www.notion.so/ivido/Pull-Request-Reviewing-b89fa374e2704319a0249d729db65eee#764284756c264f1684bc7a9d49d054df)?
+- [ ] Are [optimizations possible](https://www.notion.so/ivido/Pull-Request-Reviewing-b89fa374e2704319a0249d729db65eee#bc27253ddf1b412fbdc7c2aca818bf17) for the content in this pull request?
+- [ ] Is the content in the pull request [properly tested and validated](https://www.notion.so/ivido/Pull-Request-Reviewing-b89fa374e2704319a0249d729db65eee#df8d441dae0044cb9414d2cf4a929a10)?
+- [ ] Is the pull request [properly documented](https://www.notion.so/ivido/Pull-Request-Reviewing-b89fa374e2704319a0249d729db65eee#131d60cb910040c9a482c84210478e8c), both [in the code](https://www.notion.so/ivido/Pull-Request-Reviewing-b89fa374e2704319a0249d729db65eee#8a3533ffc8d14ecf91bb8c128ba35074) and in [documentation](https://www.notion.so/ivido/Pull-Request-Reviewing-b89fa374e2704319a0249d729db65eee#5c6f8baa61cb4111981ef02d828da335)?
+- [ ] Do the changes in the codebase [break existing functionality or endpoints](https://www.notion.so/ivido/Pull-Request-Reviewing-b89fa374e2704319a0249d729db65eee#dbc4674b18b84fdcb2692e22c16e69ce) that may be relevant to partners?
