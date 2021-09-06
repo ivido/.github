@@ -7,7 +7,7 @@ This pull request contains the following breaking changes:
 
 ------
 
-A DESCRIPTION OF YOUR PULL REQUEST GOES HERE
+[A DESCRIPTION OF YOUR PULL REQUEST GOES HERE]
 
 * A bullet list of each adjustment, feature, and bug fix...
 * goes here.
@@ -16,7 +16,7 @@ A DESCRIPTION OF YOUR PULL REQUEST GOES HERE
 
 # Testing the Pull Request
 
-A DESCRIPTION OF HOW TO TEST YOUR CHANGES GOES HERE
+[A DESCRIPTION OF HOW TO TEST YOUR CHANGES GOES HERE]
 
 * Step 1 for the procedure.
 * Step 2 for the procedure.
