@@ -1,4 +1,5 @@
-_Delete this section up to and including the `------` text if your PR contains no breaking changes_
+!!! Delete this section up to and including the `------` text if your PR contains no breaking changes !!!
+
 __BREAKING CHANGES__
 This pull request contains the following breaking changes:
 * Breaking change 1
