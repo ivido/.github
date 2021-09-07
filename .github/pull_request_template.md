@@ -18,9 +18,9 @@ This pull request contains the following breaking changes:
 
 [A DESCRIPTION OF HOW TO TEST YOUR CHANGES GOES HERE]
 
-* Step 1 for the procedure.
-* Step 2 for the procedure.
-* Etc.
+1. Do this
+2. Then do that
+3. Now you will see this
 
 # Pull Request Reviewing
 
